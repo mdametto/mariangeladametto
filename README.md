@@ -1,6 +1,6 @@
 # Mariangela Dametto
 
-## Computational Structural Biochemist working at the interface of molecular simulation, structural biology, drug discovery, and biomedical data science.
+## Computational Structural Biochemist working at the interface of molecular simulation, structural biology, drug discovery, and biomedical data science
 
 ## About me
 I have experience in molecular dynamics, docking, QM/MM, and protein–ligand and protein–protein interaction analysis, along with scientific scripting in Python and Bash. My work focuses on applying computational methods to biologically and medically relevant problems, including biomolecular mechanisms, peptide and protein systems, and translational biomedical research.
